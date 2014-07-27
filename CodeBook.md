@@ -4,6 +4,8 @@ This data set is derived from the "Human Activity Recognition Using Smartphones 
 
 This data set transforms the original by selecting only the Mean and Standard Deviation values of direct "time"- and "frequency"-related measurements.  Additionally, the data is further transformed by calculating the average of each variable for each activity and each subject.
 
+Note: There are no units associated with the values because the measurements were normalized and bounded within [-1, 1].
+
 ---
 
 ### Variables
